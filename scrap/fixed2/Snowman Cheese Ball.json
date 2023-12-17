@@ -1,0 +1,106 @@
+{
+    "title": "Snowman Cheese Ball",
+    "description": "Invite this adorable snowman cheese ball to your holiday party! Cajun seasoning, pepper Jack cheese, and ranch dressing mix bring a lot of flavor to this festive appetizer, made to look like a snowman using whole peppercorns and a baby carrot, and wearing a jaunty jalapeno hat. Serve with your favorite crackers.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "2 (8-ounce) packages cream cheese, softened",
+            "ingredients": {
+                "name": "cream cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "(8-ounce) packages"
+            }
+        },
+        {
+            "fullDescription": "1 (8-ounce) package shredded pepper Jack cheese",
+            "ingredients": {
+                "name": "shredded pepper Jack cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "(8-ounce) package"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon salt-free Cajun seasoning, such as T-Don’s Cajun Goods No Salt All Purpose Blend",
+            "ingredients": {
+                "name": "salt-free Cajun seasoning",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 (1-ounce) packet ranch dressing mix",
+            "ingredients": {
+                "name": "ranch dressing mix",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "(1-ounce) packet"
+            }
+        },
+        {
+            "fullDescription": "10 whole peppercorns",
+            "ingredients": {
+                "name": "peppercorns",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "10",
+                "unitOfMeasure": "whole"
+            }
+        },
+        {
+            "fullDescription": "1 baby carrot",
+            "ingredients": {
+                "name": "baby carrot",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1 jalapeno pepper with stem",
+            "ingredients": {
+                "name": "jalapeno pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "with stem"
+            }
+        },
+        {
+            "fullDescription": "crackers for serving",
+            "ingredients": {
+                "name": "crackers",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 109.0,
+    "fat": 9.0,
+    "carb": 3.0,
+    "protein": 4.0,
+    "image":"Default Image"
+}

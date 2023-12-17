@@ -1,0 +1,73 @@
+{
+    "title": "\nMint Sauce",
+    "description": "\nMint sauce is traditionally served with lamb, but it’s also delicious on other meats such as chicken, pork, turkey, or duck. You can even stir mint sauce into some fresh peas—delicious!",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1 1/2 tablespoons white sugar",
+            "ingredients": {
+                "name": "white sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons boiling water",
+            "ingredients": {
+                "name": "water",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 1/2 cups freshmint leaves, finely chopped",
+            "ingredients": {
+                "name": "freshmint leaves",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1 1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 1/2 tablespoons white wine vinegar",
+            "ingredients": {
+                "name": "vinegar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1 1/2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 pinch salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pinch"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 6.0,
+    "fat": 0.0,
+    "carb": 1.0,
+    "protein": 0.0,
+    "image":""
+}

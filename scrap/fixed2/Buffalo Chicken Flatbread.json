@@ -1,0 +1,117 @@
+{
+    "title": "Buffalo Chicken Flatbread",
+    "description": "This spicy Buffalo chicken flatbread is perfect for a game day appetizer or a quick-and-easy weeknight meal. We often enjoy ours with a sprinkle of blue cheese or with celery sticks and blue cheese dip on the side. As an appetizer, this will serve 6 to 8, or 4 as a main course.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "1 1/2 cups shredded cooked chicken",
+            "ingredients": {
+                "name": "chicken",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1.5",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2/3 cup Buffalo sauce, such as Frank’s RedHot® Buffalo Wings Hot Sauce",
+            "ingredients": {
+                "name": "Buffalo sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon garlic powder",
+            "ingredients": {
+                "name": "garlic powder",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 flatbread crusts (1 (14.1-ounce) package)",
+            "ingredients": {
+                "name": "flatbread crusts",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1/2 cup ranch dressing",
+            "ingredients": {
+                "name": "ranch dressing",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 cups shredded mozzarella cheese, or more to taste",
+            "ingredients": {
+                "name": "shredded mozzarella cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/4 red onion, thinly sliced",
+            "ingredients": {
+                "name": "red onion",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "2 slices crisp cooked bacon, crumbled (optional)",
+            "ingredients": {
+                "name": "crisp cooked bacon",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "slice"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons sliced green onion",
+            "ingredients": {
+                "name": "sliced green onion",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 420.0,
+    "fat": 18.0,
+    "carb": 42.0,
+    "protein": 22.0,
+    "image":"Default Image"
+}

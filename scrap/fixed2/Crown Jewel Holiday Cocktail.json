@@ -1,0 +1,62 @@
+{
+    "title": "\nCrown Jewel Holiday Cocktail",
+    "description": "\nMy crown jewel holiday cocktail is especially for the eggnog and whiskey lovers. The orange liquueur adds an interesting twist on the traditional whiskey and eggnog cocktail.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "2 fluid ounces whiskey",
+            "ingredients": {
+                "name": "whiskey",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "fluid ounce"
+            }
+        },
+        {
+            "fullDescription": "2 fluid ounces eggnog",
+            "ingredients": {
+                "name": "eggnog",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "fluid ounce"
+            }
+        },
+        {
+            "fullDescription": "1/2 fluid ounce triple secor other orange liqueur",
+            "ingredients": {
+                "name": "orange liqueur",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "fluid ounce"
+            }
+        },
+        {
+            "fullDescription": "1 cinnamon stick or orange twist",
+            "ingredients": {
+                "name": "cinnamon",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "piece"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 222.0,
+    "fat": 3.0,
+    "carb": 10.0,
+    "protein": 3.0,
+    "image":""
+}
