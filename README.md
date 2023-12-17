@@ -1,8 +1,11 @@
 # FOOD API
 
+## Important
+Create/Add, Delete and Update apis do not make any changes to the database.They just return data.
+
 ## How to
 
-you can fetch data with any kind of methods you know(fetch API, Axios, jquery ajax,...)
+You can fetch data with any kind of methods you know(fetch API, Axios, jquery ajax,...)
 
 ## Web Scraping/Data
 I got the data from a website using Web Scraping
