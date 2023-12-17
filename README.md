@@ -8,7 +8,7 @@ Create/Add, Delete and Update apis do not make any changes to the database.They 
 You can fetch data with any kind of methods you know(fetch API, Axios, jquery ajax,...)
 
 ## Web Scraping/Data
-I got the data from a website using Web Scraping
+I got the data from a website using Python Web Scraping and I did the whole process with Chatgpt . Chech Scrap File for code and Data
 
 ### Get all foods
 
