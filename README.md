@@ -195,7 +195,7 @@ fetch("https://food-api-9dpr.onrender.com/api/recipes/:id", {
 ### Search By Title
 #### query ==> ?title
 ```js
-fetch("https://food-api-9dpr.onrender.com/api/search/title?title=butter")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/title?title=butter")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -203,7 +203,7 @@ fetch("https://food-api-9dpr.onrender.com/api/search/title?title=butter")
 ### Search By Ingredients
 #### query ==> ?ingredientsName // multiple value
 ```js
-fetch("https://food-api-9dpr.onrender.com/api/search/Ingredients?ingredientsName=salt,water")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/Ingredients?ingredientsName=salt,water")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -211,7 +211,7 @@ fetch("https://food-api-9dpr.onrender.com/api/search/Ingredients?ingredientsName
 ### Search By Nutritions
 #### query ==> ?carb, ?fat, ?protein, ?calories
 ```js
-fetch("https://food-api-9dpr.onrender.com/api/search/Nutritions?carb=10,calories=200")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/Nutritions?carb=10,calories=200")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -220,7 +220,7 @@ fetch("https://food-api-9dpr.onrender.com/api/search/Nutritions?carb=10,calories
 #### query ==> ?vegan, ?vegetarian, ?ketogenic, ?glutenFree
 #### You must enter "true" for the type of food you want to search for.
 ```js
-fetch("https://food-api-9dpr.onrender.com/api/search/foodType?vegan=true&vegetarian=true")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/foodType?vegan=true&vegetarian=true")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
