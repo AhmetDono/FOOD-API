@@ -1,6 +1,8 @@
 const Food = require('../models/Food');
 const foodValidationSchema = require('../validations/foodValidation');
 
+//!Api açık olduğu için dışarıdan veri giriş/çıkış ve güncellemesi olmaması için
+//! creat delete ve update fonksiyonları düzenlendi 
 
 const createFood = async(req,res)=>{
     const { error } = foodValidationSchema.validate(req.body);
@@ -10,8 +12,10 @@ const createFood = async(req,res)=>{
     }
     const newFood = new Food(req.body)
     try{
-        const savedFood = await newFood.save();
-        res.status(200).json(savedFood)
+        const fakeSavedFoodData = req.body; 
+        res.status(200).json(fakeSavedFoodData);
+        // const savedFood = await newFood.save();
+        // res.status(200).json(savedFood)
     }catch(err){
         res.status(500).json(err)
     }
@@ -19,7 +23,7 @@ const createFood = async(req,res)=>{
 
 const deleteFood = async(req,res)=>{
     try{
-        await Food.findByIdAndDelete(req.params.id);
+        // await Food.findByIdAndDelete(req.params.id);
         res.status(200).json("Food has been deleted");
     }catch(err){
         res.status(500).json(err);
@@ -34,11 +38,13 @@ const updateFood = async(req,res)=>{
     }
 
     try {
-        const updatedFood = await Food.findByIdAndUpdate(
-          req.params.id,{
-            $set: req.body,
-          },{ new: true }
-        );
+        // const updatedFood = await Food.findByIdAndUpdate(
+        //   req.params.id,{
+        //     $set: req.body,
+        //   },{ new: true }
+        // );
+        // res.status(200).json(updatedFood);
+        const updatedFood = req.body;
         res.status(200).json(updatedFood);
       } catch (err) {
         res.status(500).json(err);

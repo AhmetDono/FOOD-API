@@ -1,0 +1,161 @@
+{
+    "title": "Cauliflower Rice Pilaf",
+    "description": "In this cauliflower rice pilaf, frozen riced cauliflower stands in for rice. With a pretty yellow color from turmeric, and lots of flavor from shallots, mushrooms, and carrots, this side dish is as savory as it is attractive.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "2 tablespoons unsalted butter",
+            "ingredients": {
+                "name": "butter",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "2/3 cup diced shallots",
+            "ingredients": {
+                "name": "shallots",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2/3 cup chopped fresh white mushrooms",
+            "ingredients": {
+                "name": "white mushrooms",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "3 tablespoons shredded carrots",
+            "ingredients": {
+                "name": "carrots",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon turmeric",
+            "ingredients": {
+                "name": "turmeric",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon curry powder",
+            "ingredients": {
+                "name": "curry powder",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon paprika",
+            "ingredients": {
+                "name": "paprika",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 cloves garlic, minced",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1/2 cup white wine",
+            "ingredients": {
+                "name": "white wine",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons chicken flavor bouillon base, such as Better Than Bouillon® Roasted Chicken Base",
+            "ingredients": {
+                "name": "chicken flavor bouillon base",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 pound frozen riced cauliflower",
+            "ingredients": {
+                "name": "riced cauliflower",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pound"
+            }
+        },
+        {
+            "fullDescription": "salt and freshly ground black pepper, to taste",
+            "ingredients": {
+                "name": "",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1/4 cup minced fresh parsley, plus more for garnish",
+            "ingredients": {
+                "name": "fresh parsley",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 93.0,
+    "fat": 4.0,
+    "carb": 9.0,
+    "protein": 3.0,
+    "image":"Default Image"
+}

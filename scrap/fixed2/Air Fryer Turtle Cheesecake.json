@@ -1,0 +1,161 @@
+{
+    "title": "Air Fryer Turtle Cheesecake",
+    "description": "Did you know that you can use your air fryer to make turtle cheesecake? The flavors of chocolate, caramel, toasted pecans, and creamy cheesecake are a perfect match.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "1 cup graham cracker crumbs",
+            "ingredients": {
+                "name": "graham cracker crumbs",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon sugar",
+            "ingredients": {
+                "name": "sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "6 tablespoons butter, melted",
+            "ingredients": {
+                "name": "butter",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "6",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "12 ounces cream cheese, softened",
+            "ingredients": {
+                "name": "cream cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "12",
+                "unitOfMeasure": "ounces"
+            }
+        },
+        {
+            "fullDescription": "1/3 cup sour cream",
+            "ingredients": {
+                "name": "sour cream",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/3 cup sugar",
+            "ingredients": {
+                "name": "sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon lemon juice",
+            "ingredients": {
+                "name": "lemon juice",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon vanilla extract",
+            "ingredients": {
+                "name": "vanilla extract",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 pinch salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pinch"
+            }
+        },
+        {
+            "fullDescription": "2 large eggs",
+            "ingredients": {
+                "name": "eggs",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons chocolate ice cream topping, or to taste",
+            "ingredients": {
+                "name": "chocolate ice cream topping",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons caramel ice cream topping, or to taste",
+            "ingredients": {
+                "name": "caramel ice cream topping",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons chopped toasted pecans, or to taste",
+            "ingredients": {
+                "name": "chopped toasted pecans",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 382.0,
+    "fat": 29.0,
+    "carb": 27.0,
+    "protein": 6.0,
+    "image":"Default Image"
+}

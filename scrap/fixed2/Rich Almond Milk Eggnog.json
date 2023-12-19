@@ -1,0 +1,84 @@
+{
+    "title": "\nRich Almond Milk Eggnog",
+    "description": "\nThis rich almond milk eggnog is dairy-free, and suitable for anyone who is lactose intolerant or just prefers plant-based milks. Its richness comes from the addition of a duck egg, and it has a thinner texture than commercial eggnog. ",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1 duck egg",
+            "ingredients": {
+                "name": "duck egg",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "piece"
+            }
+        },
+        {
+            "fullDescription": "1 cup vanilla almond milk",
+            "ingredients": {
+                "name": "almond mil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon white sugar",
+            "ingredients": {
+                "name": "white sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon vanilla extract",
+            "ingredients": {
+                "name": "vanilla extract",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons non-dairywhipped topping",
+            "ingredients": {
+                "name": "topping",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 pinch ground nutmeg",
+            "ingredients": {
+                "name": "nutmeg",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pinch"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 185.0,
+    "fat": 9.0,
+    "carb": 16.0,
+    "protein": 8.0,
+    "image":""
+}

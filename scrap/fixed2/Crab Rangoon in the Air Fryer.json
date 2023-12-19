@@ -1,0 +1,172 @@
+{
+    "title": "Crab Rangoon in the Air Fryer",
+    "description": "Crab rangoon turn extra crispy when cooked in the air fryer. Filled with crab, cream cheese, and spices these little crab puffs are a tasty Chinese-American treat.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "1/2 cup seedless apricot fruit spread",
+            "ingredients": {
+                "name": "apricot fruit spread",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon chili-garlic sauce",
+            "ingredients": {
+                "name": "chili-garlic sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon less-sodium soy sauce",
+            "ingredients": {
+                "name": "soy sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon orange zest",
+            "ingredients": {
+                "name": "orange zest",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons freshly squeezed orange juice (from 1 orange)",
+            "ingredients": {
+                "name": "orange juice",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "4 ounces cream cheese",
+            "ingredients": {
+                "name": "cream cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": "ounces"
+            }
+        },
+        {
+            "fullDescription": "4 ounces fresh lump crab meat, drained",
+            "ingredients": {
+                "name": "fresh lump crab meat",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": "ounces"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons chopped fresh chives",
+            "ingredients": {
+                "name": "fresh chives",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons Worcestershire sauce",
+            "ingredients": {
+                "name": "Worcestershire sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 clove garlic, grated (about 1/2 teaspoon)",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "clove"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon freshly ground black pepper",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "18 wonton wrappers",
+            "ingredients": {
+                "name": "wonton wrappers",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "18",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "cooking spray",
+            "ingredients": {
+                "name": "cooking spray",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 187.0,
+    "fat": 6.0,
+    "carb": 25.0,
+    "protein": 8.0,
+    "image":"Default Image"
+}

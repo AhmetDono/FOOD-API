@@ -4,7 +4,8 @@
   "description": "Food api",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build":"npm i"
   },
   "keywords": [
     "food",
