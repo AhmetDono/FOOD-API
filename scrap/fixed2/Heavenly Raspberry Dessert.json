@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "\nHeavenly Raspberry Dessert",
     "description": "\nLight-tasting and delicious! My mother's famous dessert recipe has completed many holiday meals and makes a stunning summery cake. This works beautifully with strawberries as well.",
@@ -70,4 +71,78 @@
     "carb": 47.0,
     "protein": 5.0,
     "image":""
+=======
+{
+    "title": "\nHeavenly Raspberry Dessert",
+    "description": "\nLight-tasting and delicious! My mother's famous dessert recipe has completed many holiday meals and makes a stunning summery cake. This works beautifully with strawberries as well.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1 (9 inch) angel food cake",
+            "ingredients": {
+                "name": "angel food cake",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "9 inch"
+            }
+        },
+        {
+            "fullDescription": "2(3 ounce) packages raspberry-flavored gelatin mix (such as Jell-O®)",
+            "ingredients": {
+                "name": "gelatin mix",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2 (3ounce)",
+                "unitOfMeasure": "ounce"
+            }
+        },
+        {
+            "fullDescription": "1 1/4 cups boiling water",
+            "ingredients": {
+                "name": "water",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1 1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1(15 ounce) packagefrozen raspberries in syrup, thawed and undrained",
+            "ingredients": {
+                "name": "syrup",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1(15 ounce)",
+                "unitOfMeasure": "ounce"
+            }
+        },
+        {
+            "fullDescription": "1 pint heavy whipping cream",
+            "ingredients": {
+                "name": "cream",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pint"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 357.0,
+    "fat": 18.0,
+    "carb": 47.0,
+    "protein": 5.0,
+    "image":""
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
 }

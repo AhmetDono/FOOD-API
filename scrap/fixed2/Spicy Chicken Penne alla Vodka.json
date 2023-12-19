@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Spicy Chicken Penne alla Vodka",
     "description": "This spicy chicken penne alla vodka is a restaurant-style pasta dish that is also budget-friendly. Most items will likely be in your pantry already, plus it takes very little time to put together. It'll be on the table in about half an hour.",
@@ -159,3 +160,166 @@
     "protein": 20.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Spicy Chicken Penne alla Vodka",
+    "description": "This spicy chicken penne alla vodka is a restaurant-style pasta dish that is also budget-friendly. Most items will likely be in your pantry already, plus it takes very little time to put together. It'll be on the table in about half an hour.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "1 pound penne pasta",
+            "ingredients": {
+                "name": "penne pasta",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pound"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon butter",
+            "ingredients": {
+                "name": "butter",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "3 skinless, boneless chicken breasts",
+            "ingredients": {
+                "name": "chicken breasts",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon Italian seasoning, divided",
+            "ingredients": {
+                "name": "Italian seasoning",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon salt, divided",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 shallot, minced",
+            "ingredients": {
+                "name": "shallot",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "4 cloves garlic, minced",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": "cloves"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon crushed red pepper flakes",
+            "ingredients": {
+                "name": "crushed red pepper flakes",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 (28-ounce) can tomato puree",
+            "ingredients": {
+                "name": "tomato puree",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "(28-ounce) can"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup heavy whipping cream",
+            "ingredients": {
+                "name": "heavy whipping cream",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons vodka",
+            "ingredients": {
+                "name": "vodka",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup shredded Parmesan cheese",
+            "ingredients": {
+                "name": "shredded Parmesan cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "4 leaves basil, cut into very thin strips",
+            "ingredients": {
+                "name": "basil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": "leaves"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 408.0,
+    "fat": 15.0,
+    "carb": 47.0,
+    "protein": 20.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

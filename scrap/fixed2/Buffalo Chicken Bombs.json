@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "\nBuffalo Chicken Bombs",
     "description": "\nFor these Buffalo chicken bombs, refrigerated buttermilk biscuits are rolled thin and filled with a Buffalo chicken mixture and mozzarella cheese, baked until golden brown, and topped with melted butter, parsley, and garlic. Serve ranch dressing or blue cheese dressing on the side as a dip.",
@@ -103,4 +104,111 @@
     "carb": 11.0,
     "protein": 14.0,
     "image":""
+=======
+{
+    "title": "\nBuffalo Chicken Bombs",
+    "description": "\nFor these Buffalo chicken bombs, refrigerated buttermilk biscuits are rolled thin and filled with a Buffalo chicken mixture and mozzarella cheese, baked until golden brown, and topped with melted butter, parsley, and garlic. Serve ranch dressing or blue cheese dressing on the side as a dip.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1 1/2 cups shredded rotisserie chicken",
+            "ingredients": {
+                "name": "chicken",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1 1/2",
+                "unitOfMeasure": "cups"
+            }
+        },
+        {
+            "fullDescription": "1/4 cup Buffalo sauce",
+            "ingredients": {
+                "name": "buffalo sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/3cup shredded mozzarella cheese",
+            "ingredients": {
+                "name": "mozzarella",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 (8-count) can refrigerated buttermilk biscuits",
+            "ingredients": {
+                "name": "biscuits",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "(8-count)"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons salted butter, melted",
+            "ingredients": {
+                "name": "butter",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon choppedfresh parsley",
+            "ingredients": {
+                "name": "parsley",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon garlic powder",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons blue cheese dressing orranch dressing",
+            "ingredients": {
+                "name": "blue cheese dressing,orranch dressing",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 216.0,
+    "fat": 13.0,
+    "carb": 11.0,
+    "protein": 14.0,
+    "image":""
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
 }

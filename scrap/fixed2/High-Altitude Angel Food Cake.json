@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "High-Altitude Angel Food Cake",
     "description": "This is my grandmother's recipe that I have adapted for high-altitude baking. It is easy, light and delicious -- the BEST angel food cake ever!!",
@@ -93,3 +94,100 @@
     "protein": 7.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "High-Altitude Angel Food Cake",
+    "description": "This is my grandmother's recipe that I have adapted for high-altitude baking. It is easy, light and delicious -- the BEST angel food cake ever!!",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "1 ⅓ cups sifted cake flour",
+            "ingredients": {
+                "name": "cake flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 ⅛ cups white sugar",
+            "ingredients": {
+                "name": "white sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 ½ cups egg whites",
+            "ingredients": {
+                "name": "egg whites",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 ¼ teaspoons cream of tartar",
+            "ingredients": {
+                "name": "cream of tartar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "¾ teaspoons salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon vanilla extract",
+            "ingredients": {
+                "name": "vanilla extract",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "½ teaspoon lemon extract",
+            "ingredients": {
+                "name": "lemon extract",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": "teaspoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 221.0,
+    "fat": 0.0,
+    "carb": 47.0,
+    "protein": 7.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

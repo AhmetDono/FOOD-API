@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Air Fryer Everything-Bagel Salmon Dinner",
     "description": "Salmon fillets are flavored with everything bagel seasoning and cooked in the air fryer with sweet potatoes and broccoli. A perfectly balanced meal for 2 on a weekday.",
@@ -148,3 +149,155 @@
     "protein": 43.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Air Fryer Everything-Bagel Salmon Dinner",
+    "description": "Salmon fillets are flavored with everything bagel seasoning and cooked in the air fryer with sweet potatoes and broccoli. A perfectly balanced meal for 2 on a weekday.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "cooking spray",
+            "ingredients": {
+                "name": "cooking spray",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1 large (8 ounce) sweet potato, cut into 1/4-inch wedges",
+            "ingredients": {
+                "name": "sweet potato",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "large (8 ounce)"
+            }
+        },
+        {
+            "fullDescription": "3 teaspoons olive oil, divided",
+            "ingredients": {
+                "name": "olive oil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon salt, divided",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon freshly ground black pepper, divided",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon Dijon mustard",
+            "ingredients": {
+                "name": "Dijon mustard",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon honey",
+            "ingredients": {
+                "name": "honey",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons mayonnaise",
+            "ingredients": {
+                "name": "mayonnaise",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "2 cups small broccoli florets",
+            "ingredients": {
+                "name": "broccoli florets",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "cups"
+            }
+        },
+        {
+            "fullDescription": "2 (5-6 ounce) salmon fillets",
+            "ingredients": {
+                "name": "salmon fillets",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "(5-6 ounce)"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons everything bagel seasoning",
+            "ingredients": {
+                "name": "everything bagel seasoning",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon soy sauce",
+            "ingredients": {
+                "name": "soy sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 589.0,
+    "fat": 32.0,
+    "carb": 33.0,
+    "protein": 43.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

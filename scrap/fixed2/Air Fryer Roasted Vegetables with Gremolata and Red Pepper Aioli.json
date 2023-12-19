@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Air Fryer Roasted Vegetables with Gremolata and Red Pepper Aioli",
     "description": "Air fryer roasted vegetables come out wonderfully crisp and tender—paired with homemade gremolada and red pepper aioli they make a tasty appetizer or side.",
@@ -192,3 +193,199 @@
     "protein": 4.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Air Fryer Roasted Vegetables with Gremolata and Red Pepper Aioli",
+    "description": "Air fryer roasted vegetables come out wonderfully crisp and tender—paired with homemade gremolada and red pepper aioli they make a tasty appetizer or side.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "1 medium zucchini, cut into 1/4-x3-inch pieces",
+            "ingredients": {
+                "name": "zucchini",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "medium"
+            }
+        },
+        {
+            "fullDescription": "1 medium summer squash, sliced 1/4 inch thick",
+            "ingredients": {
+                "name": "summer squash",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "medium"
+            }
+        },
+        {
+            "fullDescription": "1 (8-ounces package) cremini mushrooms, halved or quartered if large",
+            "ingredients": {
+                "name": "cremini mushrooms",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "(8-ounces package)"
+            }
+        },
+        {
+            "fullDescription": "3/4 cup cauliflower florets",
+            "ingredients": {
+                "name": "cauliflower florets",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "6 any color mini bell peppers",
+            "ingredients": {
+                "name": "mini bell peppers",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "6",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons vegetable oil",
+            "ingredients": {
+                "name": "vegetable oil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon freshly ground black pepper",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup chopped fresh parsley",
+            "ingredients": {
+                "name": "fresh parsley",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons minced fresh garlic",
+            "ingredients": {
+                "name": "fresh garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons lemon zest",
+            "ingredients": {
+                "name": "lemon zest",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup mayonnaise",
+            "ingredients": {
+                "name": "mayonnaise",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons chopped jarred roasted red peppers, drained",
+            "ingredients": {
+                "name": "jarred roasted red peppers",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon extra-virgin olive oil",
+            "ingredients": {
+                "name": "extra-virgin olive oil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon red wine vinegar",
+            "ingredients": {
+                "name": "red wine vinegar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon minced fresh garlic",
+            "ingredients": {
+                "name": "fresh garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 304.0,
+    "fat": 27.0,
+    "carb": 13.0,
+    "protein": 4.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

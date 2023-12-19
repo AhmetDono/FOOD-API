@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Air Fryer Cheesy Bacon Ranch French Fries",
     "description": "These simple cheesy bacon ranch fries are great as an appetizer or served with grilled burgers. It all starts with frozen fries, so it's perfect for a last-minute side or unexpected guests. They never disappoint. Garnish with chopped chives and serve with ranch salad dressing if desired.",
@@ -82,3 +83,89 @@
     "protein": 9.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Air Fryer Cheesy Bacon Ranch French Fries",
+    "description": "These simple cheesy bacon ranch fries are great as an appetizer or served with grilled burgers. It all starts with frozen fries, so it's perfect for a last-minute side or unexpected guests. They never disappoint. Garnish with chopped chives and serve with ranch salad dressing if desired.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "4 cup frozen French fries",
+            "ingredients": {
+                "name": "frozen French fries",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/4 cup olive oil",
+            "ingredients": {
+                "name": "olive oil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoon ranch salad dressing mix",
+            "ingredients": {
+                "name": "ranch salad dressing mix",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoon bacon bits",
+            "ingredients": {
+                "name": "bacon bits",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 pinch salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pinch"
+            }
+        },
+        {
+            "fullDescription": "1/4 cup shredded Cheddar cheese",
+            "ingredients": {
+                "name": "shredded Cheddar cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 527.0,
+    "fat": 29.0,
+    "carb": 61.0,
+    "protein": 9.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

@@ -1,16 +1,19 @@
 # FOOD API
 
+## Important
+Create/Add, Delete and Update apis do not make any changes to the database.They just return data.
+
 ## How to
 
-you can fetch data with any kind of methods you know(fetch API, Axios, jquery ajax,...)
+You can fetch data with any kind of methods you know(fetch API, Axios, jquery ajax,...)
 
 ## Web Scraping/Data
-I got the data from a website using Web Scraping
+I got the data from a website using Python Web Scraping and I did the whole process with Chatgpt . Chech Scrap File for code and Data
 
 ### Get all foods
 
 ```js
-fetch("http://localhost:5000/api/recipes/:id")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/:id")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -18,7 +21,7 @@ fetch("http://localhost:5000/api/recipes/:id")
 ### Get a single food
 
 ```js
-fetch("http://localhost:5000/api/recipes")
+fetch("https://food-api-9dpr.onrender.com/api/recipes")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -26,7 +29,7 @@ fetch("http://localhost:5000/api/recipes")
 ### Add new Food
 
 ```js
-fetch("http://localhost:5000/api/recipes", {
+fetch("https://food-api-9dpr.onrender.com/api/recipes", {
   method: "POST",
   body: JSON.stringify({
     "title": "Rich Almond Milk Eggnog",
@@ -105,7 +108,7 @@ fetch("http://localhost:5000/api/recipes", {
 ### Updating a product
 
 ```js
-fetch("http://localhost:5000/api/recipes/:id", {
+fetch("https://food-api-9dpr.onrender.com/api/recipes/:id", {
   method: "PUT",
   body: JSON.stringify({
     "title": "Rich Almond Milk Eggnog",
@@ -184,7 +187,7 @@ fetch("http://localhost:5000/api/recipes/:id", {
 
 ### Deleting a product\
 ```js
-fetch("http://localhost:5000/api/recipes/:id", {
+fetch("https://food-api-9dpr.onrender.com/api/recipes/:id", {
   method: "DELETE",
 });
 ```
@@ -192,7 +195,7 @@ fetch("http://localhost:5000/api/recipes/:id", {
 ### Search By Title
 #### query ==> ?title
 ```js
-fetch("http://localhost:5000/api/search/title?title=butter")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/title?title=butter")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -200,7 +203,7 @@ fetch("http://localhost:5000/api/search/title?title=butter")
 ### Search By Ingredients
 #### query ==> ?ingredientsName // multiple value
 ```js
-fetch("http://localhost:5000/api/search/Ingredients?ingredientsName=salt,water")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/Ingredients?ingredientsName=salt,water")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -208,7 +211,7 @@ fetch("http://localhost:5000/api/search/Ingredients?ingredientsName=salt,water")
 ### Search By Nutritions
 #### query ==> ?carb, ?fat, ?protein, ?calories
 ```js
-fetch("http://localhost:5000/api/search/Nutritions?carb=10,calories=200")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/Nutritions?carb=10,calories=200")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -217,14 +220,14 @@ fetch("http://localhost:5000/api/search/Nutritions?carb=10,calories=200")
 #### query ==> ?vegan, ?vegetarian, ?ketogenic, ?glutenFree
 #### You must enter "true" for the type of food you want to search for.
 ```js
-fetch("http://localhost:5000/api/search/foodType?vegan=true&vegetarian=true")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/foodType?vegan=true&vegetarian=true")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
 
 ### Get Random Food
 ```js
-fetch("http://localhost:5000/api/recipes/search/random")
+fetch("https://food-api-9dpr.onrender.com/api/recipes/search/random")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```

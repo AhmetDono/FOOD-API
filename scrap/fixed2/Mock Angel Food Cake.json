@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Mock Angel Food Cake",
     "description": "My grandma used this mock angel food cake recipe when she had a bakery. I have never had a problem with it. It is so easy to do!",
@@ -115,3 +116,122 @@
     "protein": 11.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Mock Angel Food Cake",
+    "description": "My grandma used this mock angel food cake recipe when she had a bakery. I have never had a problem with it. It is so easy to do!",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "4 ½ cups cake flour",
+            "ingredients": {
+                "name": "cake flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": "cups"
+            }
+        },
+        {
+            "fullDescription": "4 cups white sugar",
+            "ingredients": {
+                "name": "white sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": "cups"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "2 cups boiling water",
+            "ingredients": {
+                "name": "boiling water",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "cups"
+            }
+        },
+        {
+            "fullDescription": "16 egg whites",
+            "ingredients": {
+                "name": "egg whites",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "16",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons baking powder",
+            "ingredients": {
+                "name": "baking powder",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons cream of tartar",
+            "ingredients": {
+                "name": "cream of tartar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons vanilla extract",
+            "ingredients": {
+                "name": "vanilla extract",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon almond extract",
+            "ingredients": {
+                "name": "almond extract",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 575.0,
+    "fat": 1.0,
+    "carb": 132.0,
+    "protein": 11.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

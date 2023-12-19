@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "\nChicken Almondine",
     "description": "\nChicken almondine is nothing more than dressed up simple chicken tenderloins with a buttery almond sauce. Just a few pantry items will turn your chicken main dish into something special. There were two thumbs up from my guys, so I'm a happy cook!",
@@ -136,4 +137,144 @@
     "carb": 11.0,
     "protein": 49.0,
     "image":""
+=======
+{
+    "title": "\nChicken Almondine",
+    "description": "\nChicken almondine is nothing more than dressed up simple chicken tenderloins with a buttery almond sauce. Just a few pantry items will turn your chicken main dish into something special. There were two thumbs up from my guys, so I'm a happy cook!",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1/4 cup all-purpose flour",
+            "ingredients": {
+                "name": "flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon Herbes de Provence",
+            "ingredients": {
+                "name": "Herbes de Provence",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon salt, or to taste",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon freshlyground black pepper, or to taste",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "8 chicken tenderloins",
+            "ingredients": {
+                "name": "chicken",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "8",
+                "unitOfMeasure": "piece"
+            }
+        },
+        {
+            "fullDescription": "5 tablespoon sunsalted butter",
+            "ingredients": {
+                "name": "butter",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "5",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup slicedraw almonds",
+            "ingredients": {
+                "name": "almonds",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "3 green onions,sliced, white and green parts separated",
+            "ingredients": {
+                "name": "green onion",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3",
+                "unitOfMeasure": "piece"
+            }
+        },
+        {
+            "fullDescription": "2 cloves garlic, minced",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "clove"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup white wine",
+            "ingredients": {
+                "name": "wine",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup chicken broth",
+            "ingredients": {
+                "name": "chicken",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 837.0,
+    "fat": 64.0,
+    "carb": 11.0,
+    "protein": 49.0,
+    "image":""
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
 }

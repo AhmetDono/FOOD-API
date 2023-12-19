@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "\nBrown Butter Pecan Cookies",
     "description": "\nThese brown butter pecan cookies are like a bigger, more caramelly version of Pecan Sandies. Browning the butter and toasting the pecans really intensifies the flavor in the best possible way.",
@@ -147,4 +148,155 @@
     "carb": 39.0,
     "protein": 5.0,
     "image":""
+=======
+{
+    "title": "\nBrown Butter Pecan Cookies",
+    "description": "\nThese brown butter pecan cookies are like a bigger, more caramelly version of Pecan Sandies. Browning the butter and toasting the pecans really intensifies the flavor in the best possible way.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1 1/2 cup schopped pecans",
+            "ingredients": {
+                "name": "pecans",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "1/2cup"
+            }
+        },
+        {
+            "fullDescription": "1 cup unsalted butter",
+            "ingredients": {
+                "name": "butter",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 cup firmly packeddark brown sugar",
+            "ingredients": {
+                "name": "brown sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup white sugar",
+            "ingredients": {
+                "name": "white sugar",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 large egg, at room temperature",
+            "ingredients": {
+                "name": "egg",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "large"
+            }
+        },
+        {
+            "fullDescription": "1 large egg yolk",
+            "ingredients": {
+                "name": "egg yolk",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "large"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons vanilla extract",
+            "ingredients": {
+                "name": "vanilla extract",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "2 1/2 cup sall-purpose flour",
+            "ingredients": {
+                "name": "flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon baking powder",
+            "ingredients": {
+                "name": "baking powder",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon baking soda",
+            "ingredients": {
+                "name": "baking soda",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon ground nutmeg",
+            "ingredients": {
+                "name": "nutmeg",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 372.0,
+    "fat": 23.0,
+    "carb": 39.0,
+    "protein": 5.0,
+    "image":""
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
 }

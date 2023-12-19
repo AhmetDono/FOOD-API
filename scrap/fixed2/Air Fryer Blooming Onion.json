@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Air Fryer Blooming Onion",
     "description": "Use your air fryer to prepare this blooming onion, a fun appetizer resembling a flower. Serve with dipping sauce as a shared appetizer.",
@@ -235,4 +236,243 @@
     "carb": 149.0,
     "protein": 20.0,
     "image":"Default Image"
+=======
+{
+    "title": "Air Fryer Blooming Onion",
+    "description": "Use your air fryer to prepare this blooming onion, a fun appetizer resembling a flower. Serve with dipping sauce as a shared appetizer.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1 cup milk",
+            "ingredients": {
+                "name": "milk",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 large egg",
+            "ingredients": {
+                "name": "egg",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1 cup flour",
+            "ingredients": {
+                "name": "flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "3/4 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "3/4 teaspoon cayenne pepper",
+            "ingredients": {
+                "name": "cayenne pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon paprika, plus more for garnish",
+            "ingredients": {
+                "name": "paprika",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon freshly ground black pepper",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon dried oregano",
+            "ingredients": {
+                "name": "dried oregano",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon dried thyme",
+            "ingredients": {
+                "name": "dried thyme",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon cumin",
+            "ingredients": {
+                "name": "cumin",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 large (14- to 16-ounces) sweet onion",
+            "ingredients": {
+                "name": "sweet onion",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "ounces"
+            }
+        },
+        {
+            "fullDescription": "cooking spray",
+            "ingredients": {
+                "name": "cooking spray",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1/2 cup mayonnaise",
+            "ingredients": {
+                "name": "mayonnaise",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons cream-style horseradish sauce",
+            "ingredients": {
+                "name": "cream-style horseradish sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon ketchup",
+            "ingredients": {
+                "name": "ketchup",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon paprika",
+            "ingredients": {
+                "name": "paprika",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon dried oregano",
+            "ingredients": {
+                "name": "dried oregano",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon cayenne pepper",
+            "ingredients": {
+                "name": "cayenne pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 pinch freshly ground black pepper",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": ""
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 871.0,
+    "fat": 25.0,
+    "carb": 149.0,
+    "protein": 20.0,
+    "image":"Default Image"
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
 }

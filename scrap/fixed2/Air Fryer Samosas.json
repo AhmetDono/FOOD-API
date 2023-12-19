@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "\nAir Fryer Samosas ",
     "description": "\nUse your air fryer to make Indian samosas - this version is vegetarian with potatoes and peas but you can cook any samosa in the air fryer.",
@@ -234,4 +235,242 @@
     "fat": 3.0,
     "carb": 20.0,
     "protein": 7.0
+=======
+{
+    "title": "\nAir Fryer Samosas ",
+    "description": "\nUse your air fryer to make Indian samosas - this version is vegetarian with potatoes and peas but you can cook any samosa in the air fryer.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "12 ounces yukon gold potatoes,peeled and cut into 1-inch pieces",
+            "ingredients": {
+                "name": "potatoes",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "12",
+                "unitOfMeasure": "ounce"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon extra-virgin olive oil",
+            "ingredients": {
+                "name": "olive oil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup chopped onion",
+            "ingredients": {
+                "name": "onion",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon grated fresh ginger",
+            "ingredients": {
+                "name": "ginger",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 cloves garlic, minced",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "cloves"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon garam masala",
+            "ingredients": {
+                "name": "garam masala",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon cumin",
+            "ingredients": {
+                "name": "cumin",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image" 
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon cayenne pepper (optional)",
+            "ingredients": {
+                "name": "pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2/3 cup frozen peas, thawed",
+            "ingredients": {
+                "name": "peas",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/4 cup chopped fresh cilantro, plus more for garnish",
+            "ingredients": {
+                "name": "cilantro",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "24 wonton wrappers",
+            "ingredients": {
+                "name": "wonton wrappers",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "24",
+                "unitOfMeasure": "piece"
+            }
+        },
+        {
+            "fullDescription": "cooking spray",
+            "ingredients": {
+                "name": "cooking spray",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "none",
+                "unitOfMeasure": "none"
+            }
+        },
+        {
+            "fullDescription": "3/4 cup whole-milk Greek-style yogurt",
+            "ingredients": {
+                "name": "yogurt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/3 cup choppedfresh cilantro, plus more for garnish",
+            "ingredients": {
+                "name": "cilantro",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon lime zest",
+            "ingredients": {
+                "name": "lime zest",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon lime juice",
+            "ingredients": {
+                "name": "lime juice",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 clove garlic, chopped",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "clove"
+            }
+        },
+        {
+            "fullDescription": "1 pinch salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pinch"
+            }
+        },
+        {
+            "fullDescription": "1 pinch freshly groundblack pepper",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pinch"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 141.0,
+    "fat": 3.0,
+    "carb": 20.0,
+    "protein": 7.0
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
 }

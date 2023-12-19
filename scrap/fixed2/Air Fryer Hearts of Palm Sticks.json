@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "\nAir Fryer Hearts of Palm Sticks",
     "description": "\nI'd never seen a recipe for air fryer hearts of palm sticks but I’d seen artichoke hearts and mozzarella sticks fried in the air fryer, so I thought...why not? What a pleasant surprise! They take on the look of mozzarella sticks but have a tangy, meaty texture in the center. I serve them with marinara sauce for dipping, and ranch salad dressing would also be great.",
@@ -114,4 +115,122 @@
     "carb": 37.0,
     "protein": 14.0,
     "image":""
+=======
+{
+    "title": "\nAir Fryer Hearts of Palm Sticks",
+    "description": "\nI'd never seen a recipe for air fryer hearts of palm sticks but I’d seen artichoke hearts and mozzarella sticks fried in the air fryer, so I thought...why not? What a pleasant surprise! They take on the look of mozzarella sticks but have a tangy, meaty texture in the center. I serve them with marinara sauce for dipping, and ranch salad dressing would also be great.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "1/4 cup all-purpose flour",
+            "ingredients": {
+                "name": "flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/8 teaspoon freshlyground black pepper",
+            "ingredients": {
+                "name": "black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/8",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1 large egg",
+            "ingredients": {
+                "name": "egg",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "large"
+            }
+        },
+        {
+            "fullDescription": "1/4 cup Italian bread crumbs",
+            "ingredients": {
+                "name": "Italian bread crumbs",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons panko bread crumbs",
+            "ingredients": {
+                "name": "panko bread crumbs",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons freshlygrated Parmesan cheese",
+            "ingredients": {
+                "name": "Parmesan",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "1 (14ounce) canhearts of palm, drained",
+            "ingredients": {
+                "name": "canhearts of palm",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "14ounce"
+            }
+        },
+        {
+            "fullDescription": "olive oil cooking spray",
+            "ingredients": {
+                "name": "olive oil",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": "none"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 257.0,
+    "fat": 7.0,
+    "carb": 37.0,
+    "protein": 14.0,
+    "image":""
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Air Fryer Pecan Crusted Trout",
     "description": "This pecan crusted trout cooked in the air fryer is a quick and easy dinner that is on the table in 20 minutes. Serve with vegetables and rice.",
@@ -104,3 +105,111 @@
     "protein": 34.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Air Fryer Pecan Crusted Trout",
+    "description": "This pecan crusted trout cooked in the air fryer is a quick and easy dinner that is on the table in 20 minutes. Serve with vegetables and rice.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "2/3 cup finely chopped pecans",
+            "ingredients": {
+                "name": "pecans",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2/3",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon dried rosemary, crushed",
+            "ingredients": {
+                "name": "dried rosemary",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons flour",
+            "ingredients": {
+                "name": "flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "1 large egg",
+            "ingredients": {
+                "name": "large egg",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "4 (4-ounces) rainbow trout fillets, thawed if frozen, skinned if desired",
+            "ingredients": {
+                "name": "rainbow trout fillets",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "4",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons pure maple syrup",
+            "ingredients": {
+                "name": "pure maple syrup",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "lemon wedges, for serving",
+            "ingredients": {
+                "name": "lemon wedges",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 387.0,
+    "fat": 24.0,
+    "carb": 9.0,
+    "protein": 34.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

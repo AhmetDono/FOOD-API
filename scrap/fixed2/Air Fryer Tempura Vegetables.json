@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Air Fryer Tempura Vegetables",
     "description": "The air fryer makes it easy to cook tempura vegetables. With this formula, you can create your own customized tempura-battered veggies by using different vegetables, seasonings, and dipping sauces.",
@@ -104,3 +105,111 @@
     "protein": 6.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Air Fryer Tempura Vegetables",
+    "description": "The air fryer makes it easy to cook tempura vegetables. With this formula, you can create your own customized tempura-battered veggies by using different vegetables, seasonings, and dipping sauces.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "2 large egg whites",
+            "ingredients": {
+                "name": "egg whites",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "1/4 cup seltzer water",
+            "ingredients": {
+                "name": "seltzer water",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup flour",
+            "ingredients": {
+                "name": "flour",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon SEASONING (see Variations below)",
+            "ingredients": {
+                "name": "seasoning",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/2 teaspoon salt",
+            "ingredients": {
+                "name": "salt",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "1/4 teaspoon ground black pepper",
+            "ingredients": {
+                "name": "ground black pepper",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/4",
+                "unitOfMeasure": "teaspoon"
+            }
+        },
+        {
+            "fullDescription": "2 cups VEGETABLES (see Variations below)",
+            "ingredients": {
+                "name": "vegetables",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "cups"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup purchased DIPPING SAUCE (see Variations below)",
+            "ingredients": {
+                "name": "purchased dipping sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 142.0,
+    "fat": 1.0,
+    "carb": 27.0,
+    "protein": 6.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Air Fryer Spanakopita",
     "description": "The classic Greek appetizer spanakopita can easily be made in the air fryer.",
@@ -115,3 +116,122 @@
     "protein": 4.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Air Fryer Spanakopita",
+    "description": "The classic Greek appetizer spanakopita can easily be made in the air fryer.",
+    "ingredientsInTheRepice": [
+        {
+            "fullDescription": "2 (10-ounces) pkg. frozen chopped spinach, thawed and squeezed dry",
+            "ingredients": {
+                "name": "spinach",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "pkg."
+            }
+        },
+        {
+            "fullDescription": "1/2 cup crumbled feta cheese",
+            "ingredients": {
+                "name": "feta cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup shredded mozzarella cheese",
+            "ingredients": {
+                "name": "mozzarella cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1/2 cup freshly grated Parmesan cheese",
+            "ingredients": {
+                "name": "Parmesan cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "1 clove garlic, minced",
+            "ingredients": {
+                "name": "garlic",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "clove"
+            }
+        },
+        {
+            "fullDescription": "1 (1-lb. pkg.) frozen phyllo dough, thawed",
+            "ingredients": {
+                "name": "frozen phyllo dough",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "pkg."
+            }
+        },
+        {
+            "fullDescription": "1/2 cup unsalted butter, melted",
+            "ingredients": {
+                "name": "unsalted butter",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1/2",
+                "unitOfMeasure": "cup"
+            }
+        },
+        {
+            "fullDescription": "tzatziki sauce for serving",
+            "ingredients": {
+                "name": "tzatziki sauce",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "chopped fresh dill for serving",
+            "ingredients": {
+                "name": "fresh dill",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "Default Amount",
+                "unitOfMeasure": ""
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 122.0,
+    "fat": 7.0,
+    "carb": 12.0,
+    "protein": 4.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57

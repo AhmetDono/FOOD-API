@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "title": "Mexican Street Corn Deviled Eggs",
     "description": "These Mexican street corn deviled eggs have all the fresh flavors of your favorite street food, and everybody loves deviled eggs, so these are guaranteed to please.",
@@ -104,3 +105,111 @@
     "protein": 7.0,
     "image":"Default Image"
 }
+=======
+{
+    "title": "Mexican Street Corn Deviled Eggs",
+    "description": "These Mexican street corn deviled eggs have all the fresh flavors of your favorite street food, and everybody loves deviled eggs, so these are guaranteed to please.",
+    "ingredientsInTheRecipe": [
+        {
+            "fullDescription": "6 large eggs",
+            "ingredients": {
+                "name": "eggs",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "6",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "3 ounces prepared Mexican street corn dip",
+            "ingredients": {
+                "name": "Mexican street corn dip",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "3",
+                "unitOfMeasure": ""
+            }
+        },
+        {
+            "fullDescription": "2 tablespoons mayonnaise",
+            "ingredients": {
+                "name": "mayonnaise",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "tablespoons"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons freshly squeezed lime juice, or to taste",
+            "ingredients": {
+                "name": "lime juice",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon crumbled cotija cheese, divided",
+            "ingredients": {
+                "name": "cotija cheese",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "1 tablespoon slivered red onion",
+            "ingredients": {
+                "name": "red onion",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "tablespoon"
+            }
+        },
+        {
+            "fullDescription": "2 teaspoons chopped cilantro",
+            "ingredients": {
+                "name": "cilantro",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "2",
+                "unitOfMeasure": "teaspoons"
+            }
+        },
+        {
+            "fullDescription": "1 teaspoon chili-lime seasoning, such as Tajin® Clásico Seasoning",
+            "ingredients": {
+                "name": "chili-lime seasoning",
+                "image": "Default Image"
+            },
+            "measure": {
+                "amount": "1",
+                "unitOfMeasure": "teaspoon"
+            }
+        }
+    ],
+    "materials": [],
+    "preparationTime": 0,
+    "vegan": false,
+    "vegetarian": false,
+    "glutenFree": false,
+    "ketogenic": false,
+    "vitamins": [],
+    "calories": 151.0,
+    "fat": 13.0,
+    "carb": 1.0,
+    "protein": 7.0,
+    "image":"Default Image"
+}
+>>>>>>> 00d9846eee66d1f4604780d487939f9998c95e57
