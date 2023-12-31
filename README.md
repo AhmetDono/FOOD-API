@@ -1,4 +1,5 @@
 # FOOD API
+This is a Nodejs Food API project
 
 ## Important
 Create/Add, Delete and Update apis do not make any changes to the database.They just return data.
@@ -13,7 +14,7 @@ I got the data from a website using Python Web Scraping and I did the whole proc
 ### Get all foods
 
 ```js
-fetch("https://food-api-9dpr.onrender.com/api/recipes/:id")
+fetch("https://food-api-9dpr.onrender.com/api/recipes")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
@@ -21,7 +22,7 @@ fetch("https://food-api-9dpr.onrender.com/api/recipes/:id")
 ### Get a single food
 
 ```js
-fetch("https://food-api-9dpr.onrender.com/api/recipes")
+fetch("https://food-api-9dpr.onrender.com/api/recipes:id")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
