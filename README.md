@@ -1,4 +1,4 @@
-# FOOD API
+# FOOD API :hamburger: :pizza: :ramen:
 I've created a Nodejs food API. It contains sample data only and doesn't work with real-world information. If individuals wish, they can download this repository and enhance it for real-world use. Feel free to contribute and improve upon it, making it suitable for practical applications. Your contributions are welcome.
 
 ## Important
