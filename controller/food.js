@@ -1,10 +1,8 @@
 const Food = require('../models/Food');
 const foodValidationSchema = require('../validations/foodValidation');
 
-//!Api açık olduğu için dışarıdan veri giriş/çıkış ve güncellemesi olmaması için
-//! creat delete ve update fonksiyonları düzenlendi 
 
-const createFood = async(req,res)=>{
+const createFood = async(req,res,next)=>{
     const { error } = foodValidationSchema.validate(req.body);
 
     if (error) {
@@ -17,20 +15,20 @@ const createFood = async(req,res)=>{
         // const savedFood = await newFood.save();
         // res.status(200).json(savedFood)
     }catch(err){
-        res.status(500).json(err)
+        return res.status(500).json(err)
     }
 }
 
-const deleteFood = async(req,res)=>{
+const deleteFood = async(req,res,next)=>{
     try{
         // await Food.findByIdAndDelete(req.params.id);
         res.status(200).json("Food has been deleted");
     }catch(err){
-        res.status(500).json(err);
+        return res.status(500).json(err)
     }
 }
 
-const updateFood = async(req,res)=>{
+const updateFood = async(req,res,next)=>{
     const { error } = foodValidationSchema.validate(req.body);
 
     if (error) {
@@ -47,29 +45,29 @@ const updateFood = async(req,res)=>{
         const updatedFood = req.body;
         res.status(200).json(updatedFood);
       } catch (err) {
-        res.status(500).json(err);
+        return res.status(500).json(err)
       }
 }
 
-const getFood = async(req,res)=>{
+const getFood = async(req,res,next)=>{
     try{
         const food = await Food.findById(req.params.id);
         res.status(200).json(food);
     }catch(err){
-        res.status(500).json(err);
+        return res.status(500).json(err)
     }
 }
 
-const getFoods = async(req,res)=>{
+const getFoods = async(req,res,next)=>{
     try {
         const foods = await Food.find()
         res.status(200).json(foods);
     } catch (err) {
-        res.status(500).json(err);
+        return res.status(500).json(err)
     }
 }
 
-const getFoodsByIngredients = async (req, res) => {
+const getFoodsByIngredients = async (req, res,next) => {
     try {
         const ingredientsName = req.query.ingredientsName ? req.query.ingredientsName.split(',') : [];
         const foods = await Food.find({
@@ -78,13 +76,12 @@ const getFoodsByIngredients = async (req, res) => {
             }
         });
         res.status(200).json(foods);
-    } catch (error) {
-        console.error(error);
-        res.status(500).json({ error: 'Internal Server Error' });
+    } catch (err) {
+        return res.status(500).json(err)
     }
 };
 
-const getFoodsByNutritions = async(req,res)=>{
+const getFoodsByNutritions = async(req,res,next)=>{
     try {
         const carb = req.query.carb ? parseFloat(req.query.carb) : null;
         const fat = req.query.fat ? parseFloat(req.query.fat) : null;
@@ -114,13 +111,12 @@ const getFoodsByNutritions = async(req,res)=>{
         const foods = await Food.find(queryFilters);
         res.status(200).json(foods);
 
-    } catch (error) {
-        console.log(error)
-        res.status(500).json({ error: 'Internal Server Error' });
+    } catch (err) {
+        return res.status(500).json(err)
     }
 }
 
-const getFoodsByTitle = async(req,res)=>{
+const getFoodsByTitle = async(req,res,next)=>{
     try {
         const title = req.query.title ? req.query.title.split(' ') : [];
 
@@ -132,14 +128,12 @@ const getFoodsByTitle = async(req,res)=>{
         });
         res.status(200).json(foods);
 
-    } catch (error) {
-        console.log(error)
-        res.status(500).json({ error: 'Internal Server Error' });
+    } catch (err) {
+        return res.status(500).json(err)
     }
 }
 
-//! burdaki sorguyu az anla
-const getFoodsByType = async (req, res) => {
+const getFoodsByType = async (req, res,next) => {
 
     try {
         const vegan = req.query.vegan === "true" || false;
@@ -177,14 +171,12 @@ const getFoodsByType = async (req, res) => {
 
         res.status(200).json(foods);
 
-    } catch (error) {
-        console.log(error);
-        res.status(500).json({ error: 'Internal Server Error' });
+    } catch (err) {
+        return res.status(500).json(err)
     }
 };
 
-
-const getFoodRandom = async(req,res)=>{
+const getFoodRandom = async(req,res,next)=>{
     try {
         // Collection'daki indexleri listele
         const totalCount = await Food.countDocuments()
@@ -194,9 +186,8 @@ const getFoodRandom = async(req,res)=>{
         console.log(rand)
         res.status(200).json(food);
 
-    } catch (error) {
-        console.log(error);
-        res.status(500).json({ error: 'Internal Server Error' });
+    } catch (err) {
+        return res.status(500).json(err)
     }
 }
 
