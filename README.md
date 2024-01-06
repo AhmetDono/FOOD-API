@@ -1,6 +1,9 @@
 # FOOD API :hamburger: :pizza: :ramen:
 I've created a Nodejs food API. It contains sample data only and doesn't work with real-world information. If individuals wish, they can download this repository and enhance it for real-world use. Feel free to contribute and improve upon it, making it suitable for practical applications. Your contributions are welcome.
 
+## Update
+The photo was added for each meal
+
 ## Important
 Create/Add, Delete and Update endpoints do not make any changes to the database, they just return data.If you want to use the endpoints for Create/Add, Delete, and Update in a way that makes changes to the database, the corresponding code is provided as comments within the endpoints. You can download and use the repository by checking these comments in the code.
 
