@@ -3,6 +3,8 @@ I've created a Nodejs food API. It contains sample data only and doesn't work wi
 
 ## Update
 The photo was added for each meal
+## Update 2
+"I've added a pagination system for the 'Get All Foods' endpoint. If you don't provide any query parameters to the API endpoint, it returns all the data. However, if you use the ?page=&limit= parameters, you can use pagination. Currently, this functionality is only available for the 'get all foods' endpoint."
 
 ## Important
 Create/Add, Delete and Update endpoints do not make any changes to the database, they just return data.If you want to use the endpoints for Create/Add, Delete, and Update in a way that makes changes to the database, the corresponding code is provided as comments within the endpoints. You can download and use the repository by checking these comments in the code.
@@ -21,6 +23,14 @@ fetch("https://food-api-9dpr.onrender.com/api/recipes")
   .then((res) => res.json())
   .then((json) => console.log(json));
 ```
+
+### Gett all foods with pagination
+```js
+fetch("https://food-api-9dpr.onrender.com/api/recipes?page=2&limit=4")
+  .then((res) => res.json())
+  .then((json) => console.log(json));
+```
+
 
 ### Get a single food
 
