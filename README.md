@@ -1,15 +1,18 @@
-# FOOD API
-This is a Nodejs Food API project
+# FOOD API :hamburger: :pizza: :ramen:
+I've created a Nodejs food API. It contains sample data only and doesn't work with real-world information. If individuals wish, they can download this repository and enhance it for real-world use. Feel free to contribute and improve upon it, making it suitable for practical applications. Your contributions are welcome.
+
+## Update
+The photo was added for each meal
 
 ## Important
-Create/Add, Delete and Update apis do not make any changes to the database.They just return data.
+Create/Add, Delete and Update endpoints do not make any changes to the database, they just return data.If you want to use the endpoints for Create/Add, Delete, and Update in a way that makes changes to the database, the corresponding code is provided as comments within the endpoints. You can download and use the repository by checking these comments in the code.
 
 ## How to
 
 You can fetch data with any kind of methods you know(fetch API, Axios, jquery ajax,...)
 
 ## Web Scraping/Data
-I got the data from a website using Python Web Scraping and I did the whole process with Chatgpt . Chech Scrap File for code and Data
+I got the data from a website using Python Web Scraping and I did the whole process with Chatgpt  I removed the URL of the website I was scraping to avoid any issues . Chech Scrap File for code and Data 
 
 ### Get all foods
 
