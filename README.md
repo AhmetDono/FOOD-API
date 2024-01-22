@@ -29,6 +29,23 @@ fetch("https://food-api-9dpr.onrender.com/api/recipes")
 fetch("https://food-api-9dpr.onrender.com/api/recipes?page=2&limit=4")
   .then((res) => res.json())
   .then((json) => console.log(json));
+
+{
+  "results": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "previous": {
+  "page": 1,
+  "limit": 4
+  },
+  "next": {
+  "page": 3,
+  "limit": 4
+  }
+}
 ```
 
 
