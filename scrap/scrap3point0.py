@@ -303,7 +303,7 @@ def get_recipe_info(url):
 
     return recipe_data
 
-URL = '#########'
+URL = 'https://www.allrecipes.com/recipes-a-z-6735880'
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0"}
 
 sayfa = get_page_content(URL)

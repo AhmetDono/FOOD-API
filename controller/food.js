@@ -60,8 +60,7 @@ const getFood = async(req,res,next)=>{
 
 const getFoods = async(req,res,next)=>{
     try {
-        const foods = await Food.find()
-        res.status(200).json(foods);
+        res.status(200).json(res.paginatedResults);
     } catch (err) {
         return res.status(500).json(err)
     }
