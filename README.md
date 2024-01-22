@@ -29,7 +29,10 @@ fetch("https://food-api-9dpr.onrender.com/api/recipes")
 fetch("https://food-api-9dpr.onrender.com/api/recipes?page=2&limit=4")
   .then((res) => res.json())
   .then((json) => console.log(json));
-
+}
+```
+#### Results
+```js
 {
   "results": [
     {},
@@ -45,7 +48,6 @@ fetch("https://food-api-9dpr.onrender.com/api/recipes?page=2&limit=4")
   "page": 3,
   "limit": 4
   }
-}
 ```
 
 
